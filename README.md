@@ -7,10 +7,15 @@ Estes audios deverão esta na pasta /var/lig/asterisk/sounds/pt_BR
 Audios Corrigidos
 ============
 Estes audios são para o fluxo que chamadas que terminam na seguinte situação:
-    -- <PJSIP/9010-0000001b> Playing 'im-sorry.slin' (language 'pt_BR')
-    -- <PJSIP/9010-0000001b> Playing 'an-error-has-occurred.slin' (language 'pt_BR')
-    -- <PJSIP/9010-0000001b> Playing 'with.slin' (language 'pt_BR')
-    -- <PJSIP/9010-0000001b> Playing 'call-forwarding.slin' (language 'pt_BR')
+
+-- <PJSIP/9010-0000001b> Playing 'im-sorry.slin' (language 'pt_BR')
+
+-- <PJSIP/9010-0000001b> Playing 'an-error-has-occurred.slin' (language 'pt_BR')
+
+-- <PJSIP/9010-0000001b> Playing 'with.slin' (language 'pt_BR')
+
+-- <PJSIP/9010-0000001b> Playing 'call-forwarding.slin' (language 'pt_BR')
+
 
 Licença
 =======
