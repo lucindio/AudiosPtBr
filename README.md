@@ -1,7 +1,9 @@
 AudiosPtBr
 ============
 Asterisk: todas as versoes
+
 Audios atualizados e corrigidos para o Porguguês Brasil
+
 Estes audios deverão esta na pasta /var/lig/asterisk/sounds/pt_BR
 
 Audios Corrigidos
